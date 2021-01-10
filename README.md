@@ -1,14 +1,9 @@
-## Getting Started
+## Projeto simples de Interface Grafica
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Ao acionar o botão correspondente, ira redirecioanr ao cadastros correspondente ao nome do botão cliente ou funcionario.
 
-## Folder Structure
+Obs: Projeto simples, pois pouco tempo para entregar o trabalho perfeito.
 
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-## Dependency Management
-
-The `JAVA DEPENDENCIES` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-pack/blob/master/release-notes/v0.9.0.md#work-with-jar-files-directly).
+## Autores
+- Carlos Eduardo Casteliano
+ Jailson Quirino de Paula
