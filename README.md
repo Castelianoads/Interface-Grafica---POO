@@ -2,8 +2,9 @@
 
 Ao acionar o botão correspondente, ira redirecioanr ao cadastros correspondente ao nome do botão cliente ou funcionario.
 
-Obs: Projeto simples, pois pouco tempo para entregar o trabalho perfeito.
+Obs: Projeto simples, paa entrega do trabalho
 
 ## Autores
 - Carlos Eduardo Casteliano
- Jailson Quirino de Paula
+
+- Jailson Quirino de Paula
